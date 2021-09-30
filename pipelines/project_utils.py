@@ -33,4 +33,3 @@ def get_conection():
     
 
 
-    
