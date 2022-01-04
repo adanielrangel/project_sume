@@ -6,7 +6,7 @@ Created on Sat Sep 25 12:49:53 2021
 @author: andre
 """
 
-import project_utils as pu 
+from src import project_utils as pu 
 import pandas as pd 
 
 con = pu.get_conection()

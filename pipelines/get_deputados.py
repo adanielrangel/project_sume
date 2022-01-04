@@ -6,7 +6,7 @@ Created on Thu Aug  5 22:15:30 2021
 @author: andre
 """
 
-import project_utils as pu 
+from src import project_utils as pu 
 
 
 

@@ -10,7 +10,7 @@ import pandas as pd
 import sys
 sys.path.insert(0, '/home/andre/project_sume/utils')
 
-import project_utils as pu 
+from src import project_utils as pu 
 
 engine = pu.get_conection()
 

@@ -9,7 +9,7 @@ Created on Sat Aug  7 12:48:35 2021
 import sys
 sys.path.insert(0, '/home/andre/project_sume/utils')
 
-import project_utils as pu 
+from src import project_utils as pu 
 import pandas as pd
 
 legislaturas_id = list(range(1,57))
